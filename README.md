@@ -1,8 +1,3 @@
-# React + Vite
+Marketing Website Frontend
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This repository contains the frontend code for a sleek and interactive marketing website built using React and GSAP (GreenSock Animation Platform). The project is designed to provide a visually engaging user experience with dynamic animations and seamless performance.
